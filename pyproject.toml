@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "solara-ex"
+version = "0.1.0"
+description = ""
+authors = ["beans15 <beans15@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+solara = "^1.28.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,1 +1,2 @@
-# py_solara_ex
+# SolaraEx
+Additional components for solara.
